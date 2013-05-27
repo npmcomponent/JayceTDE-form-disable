@@ -1,0 +1,14 @@
+{
+  "name": "form-disable",
+  "repo": "JayceTDE/form-disable",
+  "description": "Disable and enable all input inside a form",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
