@@ -9,7 +9,15 @@
 
 ## API
 
-   
+```javascript
+var disabler = require('form-disable')
+  , form = document.querySelector('form')
+;
+
+disabler.disable(form);
+
+disabler.enable(form);
+```
 
 ## License
 
